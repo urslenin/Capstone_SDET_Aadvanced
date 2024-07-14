@@ -1,0 +1,105 @@
+2024-07-14 08:20:22,364  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 08:20:22,373  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 08:20:22,403  INFO [pool-1-thread-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 08:20:22,407  INFO [pool-1-thread-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 08:21:08,384  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 08:21:08,392  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 08:21:08,416  INFO [pool-1-thread-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 08:21:08,420  INFO [pool-1-thread-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 08:21:55,066  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 08:21:55,074  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 08:21:55,137  INFO [TestNG-test-End2EndFlowSauceLabDemo-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 08:21:55,140  INFO [TestNG-test-End2EndFlowSauceLabDemo-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 08:21:57,211  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] Log:18 - Test Chrome initiated 
+ 2024-07-14 08:22:11,871  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] BaseClass:94 - Key (name) is: standard_user
+ 2024-07-14 08:22:13,053  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] Log:18 - Username entered with standard_user
+ 2024-07-14 08:22:13,361  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] BaseClass:98 - Value (password) is : secret_sauce
+ 2024-07-14 08:22:13,539  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] Log:18 - Password entered with secret_sauce
+ 2024-07-14 08:22:23,810  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Backpack
+ 2024-07-14 08:22:24,909  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bike Light
+ 2024-07-14 08:22:26,092  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bolt T-Shirt
+ 2024-07-14 08:22:27,175  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Fleece Jacket
+ 2024-07-14 08:22:28,260  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Onesie
+ 2024-07-14 08:22:29,343  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Test.allTheThings() T-Shirt (Red)
+ 2024-07-14 08:22:30,436  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] ProductPageSteps:34 - Product List Size : 1
+ 2024-07-14 08:22:38,470  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] Log:18 - FirstName entered with James
+ 2024-07-14 08:22:38,886  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] Log:18 - LastName entered with David
+ 2024-07-14 08:22:39,265  INFO [TestNG-test-End2EndFlowSauceLabDemo-2] Log:18 - ZipCode entered with 6000393
+ 2024-07-14 09:13:46,904  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:13:46,913  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:13:47,000  INFO [TestNG-test-End2EndFlowSauceLabDemo-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:13:47,003  INFO [TestNG-test-End2EndFlowSauceLabDemo-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:15:08,483  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:15:08,498  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:15:08,561  INFO [TestNG-test-End2EndFlowSauceLabDemo-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:15:08,570  INFO [TestNG-test-End2EndFlowSauceLabDemo-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:15:59,577  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:15:59,587  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:15:59,636  INFO [TestNG-test=End2EndFlowSauceLabDemo-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:15:59,641  INFO [TestNG-test=End2EndFlowSauceLabDemo-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:16:01,790  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Test Chrome initiated 
+ 2024-07-14 09:16:18,766  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] BaseClass:94 - Key (name) is: standard_user
+ 2024-07-14 09:16:19,177  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Username entered with standard_user
+ 2024-07-14 09:16:19,516  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] BaseClass:98 - Value (password) is : secret_sauce
+ 2024-07-14 09:16:19,683  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Password entered with secret_sauce
+ 2024-07-14 09:16:33,396  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Backpack
+ 2024-07-14 09:16:34,911  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bike Light
+ 2024-07-14 09:16:36,051  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bolt T-Shirt
+ 2024-07-14 09:16:37,208  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Fleece Jacket
+ 2024-07-14 09:16:38,406  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Onesie
+ 2024-07-14 09:16:40,142  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Test.allTheThings() T-Shirt (Red)
+ 2024-07-14 09:16:41,272  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:34 - Product List Size : 1
+ 2024-07-14 09:16:55,379  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - FirstName entered with James
+ 2024-07-14 09:16:56,002  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - LastName entered with David
+ 2024-07-14 09:16:57,492  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - ZipCode entered with 6000393
+ 2024-07-14 09:17:21,796  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:17:21,890  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:17:21,914  INFO [pool-1-thread-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:17:21,920  INFO [pool-1-thread-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:47:46,256  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:47:46,278  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:47:46,331  INFO [pool-1-thread-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:47:46,335  INFO [pool-1-thread-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:50:01,288  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:50:01,311  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:50:01,394  INFO [TestNG-test=End2EndFlowSauceLabDemo-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:50:01,400  INFO [TestNG-test=End2EndFlowSauceLabDemo-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:50:06,781  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Test Chrome initiated 
+ 2024-07-14 09:50:46,853  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] BaseClass:94 - Key (name) is: standard_user
+ 2024-07-14 09:50:47,813  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Username entered with standard_user
+ 2024-07-14 09:50:48,226  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] BaseClass:98 - Value (password) is : secret_sauce
+ 2024-07-14 09:50:48,478  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Password entered with secret_sauce
+ 2024-07-14 09:51:02,960  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Backpack
+ 2024-07-14 09:51:04,139  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bike Light
+ 2024-07-14 09:51:05,276  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bolt T-Shirt
+ 2024-07-14 09:51:06,659  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Fleece Jacket
+ 2024-07-14 09:51:08,925  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Onesie
+ 2024-07-14 09:51:10,095  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Test.allTheThings() T-Shirt (Red)
+ 2024-07-14 09:51:11,340  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:34 - Product List Size : 1
+ 2024-07-14 09:51:24,186  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - FirstName entered with James
+ 2024-07-14 09:51:25,155  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - LastName entered with David
+ 2024-07-14 09:51:25,673  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - ZipCode entered with 6000393
+ 2024-07-14 09:52:15,891  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:52:15,904  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:52:15,929  INFO [pool-1-thread-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:52:15,934  INFO [pool-1-thread-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:54:13,044  INFO [main] Log:18 - Log4j initiated
+ 2024-07-14 09:54:13,066  INFO [main] BaseClass:46 - url https://www.saucedemo.com/
+ 2024-07-14 09:54:13,185  INFO [TestNG-test=End2EndFlowSauceLabDemo-1] DataProvidersTest:21 - DataProvider Collection Started 
+ 2024-07-14 09:54:13,196  INFO [TestNG-test=End2EndFlowSauceLabDemo-1] DataProvidersTest:25 - DataProvider Collection Completed [{standard_user=secret_sauce}]
+ 2024-07-14 09:54:16,224  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Test Chrome initiated 
+ 2024-07-14 09:54:40,122  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] BaseClass:94 - Key (name) is: standard_user
+ 2024-07-14 09:54:40,862  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Username entered with standard_user
+ 2024-07-14 09:54:41,159  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] BaseClass:98 - Value (password) is : secret_sauce
+ 2024-07-14 09:54:41,316  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - Password entered with secret_sauce
+ 2024-07-14 09:54:51,859  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Backpack
+ 2024-07-14 09:54:52,939  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bike Light
+ 2024-07-14 09:54:54,009  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Bolt T-Shirt
+ 2024-07-14 09:54:55,080  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Fleece Jacket
+ 2024-07-14 09:54:56,167  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Sauce Labs Onesie
+ 2024-07-14 09:54:57,325  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:30 - Test.allTheThings() T-Shirt (Red)
+ 2024-07-14 09:54:58,492  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] ProductPageSteps:34 - Product List Size : 1
+ 2024-07-14 09:55:07,803  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - FirstName entered with James
+ 2024-07-14 09:55:08,254  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - LastName entered with David
+ 2024-07-14 09:55:08,747  INFO [TestNG-test=End2EndFlowSauceLabDemo-2] Log:18 - ZipCode entered with 6000393
+ 

@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="E2ETestSuite" verbose="1">
+    <test name="End2EndFlowSauceLabDemo" parallel="classes" thread-count="2">
+        <parameter name="username" value="user"/>
+        <classes>
+            <class name="cucumber.DataProvidersTest"></class>
+            <class name="cucumber.TestRunner"></class>
+
+        </classes>
+
+    </test>
+</suite>
