@@ -12,10 +12,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.BeforeSuite;
-import utils.CommonSeleniumUtils;
-import utils.ConfigFileReader;
-import utils.Log;
-import utils.ReportManager;
+import utils.*;
+
+import static utils.GlobalVariable.GLOBAL_URL;
 
 public class BaseClass extends CommonSeleniumUtils {
     Logger logger = Logger.getLogger(BaseClass.class);
@@ -43,7 +42,9 @@ public class BaseClass extends CommonSeleniumUtils {
         logSetup(log4jPath);
         Log.info("Log4j initiated");
         globalURL = ConfigFileReader.getInstance().getProperty("url");
+        GlobalVariableHolder.getInstance().setValue(GlobalVariable.GLOBAL_URL, ConfigFileReader.getInstance().getProperty("url"));
         logger.info("url "+ globalURL);
+        System.out.println("VALUE FROM GETTER AND SETTER > " + GlobalVariableHolder.getInstance().getValue(GlobalVariable.GLOBAL_URL));
     }
 
     public void setUpDriver() {
