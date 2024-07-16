@@ -5,10 +5,14 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageobjects.LoginPageOR;
 import testbase.BaseClass;
+import utils.GlobalVariable;
+import utils.GlobalVariableHolder;
 
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
+import static utils.GlobalVariable.GLOBAL_URL;
 
 public class LoginPageSteps extends BaseClass {
     Map<String, String> localMapCredentials = new HashMap<>();
@@ -17,6 +21,7 @@ public class LoginPageSteps extends BaseClass {
     @Given("Driver gets Application URL {string}")
     public void driver_gets_application_url(String beforeSuiteURL) throws InterruptedException {
         openPage(globalURL);
+        System.out.println("VALUE FROM GETTER AND SETTER > " +GlobalVariableHolder.getInstance().getValue(GLOBAL_URL));
         wait(2);
     }
 
